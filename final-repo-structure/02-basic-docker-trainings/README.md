@@ -83,16 +83,16 @@
 ## 4.SHARING IMAGES
 
 1. Czyszczenie: 
-![1](images/4-sharing-images/)
+![1](images/4-sharing-images/1-task.jpg)
 
 2. Retag: 
-![2](images/4-sharing-images/)
+![2](images/4-sharing-images/2-task.jpg)
 
 3. Push:
-![3](images/4-sharing-images/)
+![3](images/4-sharing-images/3-task.jpg)
 
 4. Dockerhub:
-![4](images/4-sharing-images/)
+![4](images/4-sharing-images/4-task.jpg)
 
 ## 5.VOLUMES
 
